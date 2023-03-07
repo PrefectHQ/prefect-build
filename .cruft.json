@@ -1,0 +1,20 @@
+{
+  "template": "https://github.com/PrefectHQ/prefect-collection-template",
+  "commit": "f848dbf33334d22ade07b01ed17269bfa74d0f9c",
+  "checkout": null,
+  "context": {
+    "cookiecutter": {
+      "full_name": "George Coyne",
+      "email": "george@prefect.io",
+      "github_organization": "prefecthq",
+      "collection_name": "prefect-build",
+      "collection_slug": "prefect_build",
+      "collection_short_description": "Prefect Collection Template contains all the boilerplate that you need to create a Prefect collection.",
+      "_copy_without_render": [
+        ".github/workflows/*.yml"
+      ],
+      "_template": "https://github.com/PrefectHQ/prefect-collection-template"
+    }
+  },
+  "directory": null
+}
